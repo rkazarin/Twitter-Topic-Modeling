@@ -1,0 +1,9 @@
+The top 11 words for tweet_samples_100.txtwith 8 topics are:
+Topic 0: travel use via game buy india sport blog golf car
+Topic 1: thank love quot via great follow life help good day
+Topic 2: twitter social free post market media use get site busi
+Topic 3: tcot iranelect obama health iran care via polit p2 hous
+Topic 4: win thank follow tweet mom new blog food week enter
+Topic 5: new news music world year us -- blog video man
+Topic 6: lol got like shit get lmao fuck go know love
+Topic 7: get like go one think it know good love thank

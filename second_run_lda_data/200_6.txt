@@ -1,0 +1,7 @@
+The top 11 words for tweet_samples_200.txtwith 6 topics are:
+Topic 0: thank love quot good follow via great life day twitter
+Topic 1: like go it get think one know good love time
+Topic 2: twitter new post social get use market media busi free
+Topic 3: travel use win new great site nice thank get free
+Topic 4: lol get like go got love shit know lmao fuck
+Topic 5: new news tcot iranelect obama health report iran say us

@@ -1,0 +1,11 @@
+The top 11 words for tweet_samples_500.txtwith 10 topics are:
+Topic 0: twitter social media via use site googl new blog free
+Topic 1: new post news use world -- say titl music video
+Topic 2: like get go think it one know good time see
+Topic 3: thank love quot follow life via day great lol good
+Topic 4: lol new fuck love true rob thank blood pic oh
+Topic 5: tcot iranelect obama health iran care polit via p2 thank
+Topic 6: love mom lol thank get kid new blog post follow
+Topic 7: lol get like got go shit lmao know love good
+Topic 8: market get busi job free money make home new time
+Topic 9: thank travel win new great follow food via free love

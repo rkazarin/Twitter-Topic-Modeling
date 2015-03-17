@@ -1,0 +1,15 @@
+The top 11 words for tweet_samples_200.txtwith 14 topics are:
+Topic 0: win use mom thank follow enter post buy love kid
+Topic 1: twitter market busi get free job money make onlin home
+Topic 2: tcot obama health care polit p2 healthcar hcr gop bill
+Topic 3: get like go one it think know good time see
+Topic 4: twitter social media use googl via iphon app tweet facebook
+Topic 5: thank love quot life great follow day good via twitter
+Topic 6: iranelect iran via green protest twitter tehran scienc neda ppl
+Topic 7: new news world -- say us video year music event
+Topic 8: site nice via design top 10 digit list fli tip
+Topic 9: lol got like get shit go lmao wit yall dont
+Topic 10: lol love fuck new rob lmao know oh pic haha
+Topic 11: post titl game sport tweet report golf blog via news
+Topic 12: true blood new movi gossip film show love lost watch
+Topic 13: travel thank new food great love deal lp tip hotel
